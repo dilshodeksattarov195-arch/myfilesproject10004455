@@ -1,0 +1,7 @@
+body { background: #108b67; margin: 0; font-family: sans-serif; }
+.analytics-view { padding: 36px; display: flex; }
+.block-auth-0 { color: #704d5f; font-size: 21px; margin-bottom: 5px; }
+.block-token-1 { color: #99aa87; font-size: 21px; margin-bottom: 5px; }
+.block-database-2 { color: #6632d9; font-size: 20px; margin-bottom: 5px; }
+.block-payment-3 { color: #1d80b3; font-size: 17px; margin-bottom: 5px; }
+.block-sms-4 { color: #2391b; font-size: 13px; margin-bottom: 5px; }

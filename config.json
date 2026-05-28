@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorferify",
+        "uuid": 21357270,
+        "checksum": "p2abkf"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
